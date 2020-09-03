@@ -1,7 +1,7 @@
 ## irostub's github 👋
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub">
   <img src="https://github-readme-stats.vercel.app/api?username=irostub&show_icons=true&line_height=40">
 </p>
 <!--
