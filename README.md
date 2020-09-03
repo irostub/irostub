@@ -1,5 +1,11 @@
+
 ## irostub's github 👋
 
+Hello there! I am irostub from Korea, dreaming of becoming a NUI developer  
+I'm currently studying RNN and Linux system
+
+Languages
+here>
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub">
   <img src="https://github-readme-stats.vercel.app/api?username=irostub&show_icons=true&line_height=40">
