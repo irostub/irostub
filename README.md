@@ -1,9 +1,9 @@
 ## irostub's github 👋
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub&theme=onedark">
-<img src="https://github-readme-stats.vercel.app/api?username=irostub&show_icons=true&theme=onedark&line_height=40">
-
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api?username=irostub&show_icons=true&theme=onedark&line_height=40">
+</p>
 <!--
 **irostub/irostub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
