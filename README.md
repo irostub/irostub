@@ -1,10 +1,8 @@
-### irostub's github 👋
+## irostub's github 👋
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=irostub&hide=jupyternotebook)](https://github.com/irostub/irostub)
-
-[![irostub's github stats](https://github-readme-stats.vercel.app/api?username=irostub)](https://github.com/irostub/irostub)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api?username=irostub&show_icons=true&theme=onedark&line_height=40">
 
 <!--
 **irostub/irostub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
