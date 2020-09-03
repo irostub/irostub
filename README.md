@@ -1,12 +1,30 @@
 
 ## irostub's github 👋
 
-Hello there! I am irostub from Korea, dreaming of becoming a NUI developer  
+**Hello there!** I am irostub from Korea, dreaming of becoming a NUI developer  
 I'm currently studying RNN and Linux system
 
-Languages
-here>
-<p align="">
+💬Languages
+<p>
+<img src="https://github.com/irostub/irostub/blob/master/resources/python-plain.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/java-plain.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/php-plain.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/javascript-plain.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/csharp-plain.png?raw=true">
+</p>
+
+🌱Learning
+<p>
+<img src="https://github.com/irostub/irostub/blob/master/resources/go-plain.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/react-plain.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/android-plain.png?raw=true">
+</p>
+
+📫Talk to me anything if you want here <img src="https://github.com/irostub/irostub/blob/master/resources/discord-plain.png?raw=true" onmouseover="this.src='https://github.com/irostub/irostub/blob/master/resources/android-plain.png?raw=true'">
+
+Github Info
+---
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irostub">
   <img src="https://github-readme-stats.vercel.app/api?username=irostub&show_icons=true&line_height=40">
 </p>
