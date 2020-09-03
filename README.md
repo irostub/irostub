@@ -20,7 +20,11 @@ I'm currently studying RNN and Linux system
 <img src="https://github.com/irostub/irostub/blob/master/resources/android-plain.png?raw=true">
 </p>
 
-📫Talk to me anything if you want here <img src="https://github.com/irostub/irostub/blob/master/resources/discord-plain.png?raw=true" onmouseover="this.src='https://github.com/irostub/irostub/blob/master/resources/android-plain.png?raw=true'">
+📫Talk to me anything if you want here
+<p>
+<img src="https://github.com/irostub/irostub/blob/master/resources/discord-plain.png?raw=true">
+irostub#4498
+</p>
 
 Github Info
 ---
