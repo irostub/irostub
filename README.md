@@ -4,6 +4,7 @@
 **Hello there!** I am irostub from Korea, dreaming of becoming a NUI developer  
 I'm currently studying RNN and Linux system
 
+<br>
 💬Languages
 <p>
 <img src="https://github.com/irostub/irostub/blob/master/resources/python-plain.png?raw=true">
@@ -12,19 +13,20 @@ I'm currently studying RNN and Linux system
 <img src="https://github.com/irostub/irostub/blob/master/resources/javascript-plain.png?raw=true">
 <img src="https://github.com/irostub/irostub/blob/master/resources/csharp-plain.png?raw=true">
 </p>
-
+<br>
 🌱Learning
 <p>
 <img src="https://github.com/irostub/irostub/blob/master/resources/go-plain.png?raw=true">
 <img src="https://github.com/irostub/irostub/blob/master/resources/react-plain.png?raw=true">
 <img src="https://github.com/irostub/irostub/blob/master/resources/android-plain.png?raw=true">
 </p>
-
+<br>
 📫Talk to me anything if you want here
 <p>
 <img src="https://github.com/irostub/irostub/blob/master/resources/discord-plain.png?raw=true">
 irostub#4498
 </p>
+<br>
 
 Github Info
 ---
