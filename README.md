@@ -23,7 +23,7 @@ I'm currently studying RNN and Linux system
 <br>
 📫Talk to me anything if you want here
 <p>
-<img src="https://github.com/irostub/irostub/blob/master/resources/discord-plain.png?raw=true">
+Discord : 
 irostub#4498
 </p>
 
