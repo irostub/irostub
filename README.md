@@ -38,8 +38,7 @@ irostub#4498
 </p>
 
 ## Github Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=irostub&row=5&no-bg=true&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=irostub&row=5&no-bg=true&theme=monokai)]
 
 ## Github Info
 
