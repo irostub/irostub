@@ -38,7 +38,7 @@ irostub#4498
 </p>
 
 ## Github Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=irostub&row=1&column=5&theme=flat)
+![trophy](https://github-profile-trophy.vercel.app/?username=irostub&row=1&column=5&theme=flat&margin-w=15)
 
 ## Github Info
 
