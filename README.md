@@ -24,10 +24,7 @@ I'm currently studying reversing and modern java
 🌱Now Learning
 
 <p>
-<img src="https://github.com/irostub/irostub/blob/master/resources/spring-o.png?raw=true">
-<img src="https://github.com/irostub/irostub/blob/master/resources/react-o-w.png?raw=true">
-<img src="https://github.com/irostub/irostub/blob/master/resources/redux-o.png?raw=true">
-<img src="https://github.com/irostub/irostub/blob/master/resources/nodejs-o-w.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/spring-secu-o.png?raw=true">
 <img src="https://github.com/irostub/irostub/blob/master/resources/nginx-o.png?raw=true">
 </p>
 <br>
@@ -38,6 +35,7 @@ irostub#4498
 </p>
 
 ## Github Trophy
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=irostub&row=1&column=5&theme=flat&margin-w=15)
 
 ## Github Info
