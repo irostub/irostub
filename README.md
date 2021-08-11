@@ -1,8 +1,3 @@
-## irostub's github 👋
-
-**Hello there!** I am junior backend programmer irostub from Korea, dreaming of becoming a NUI developer  
-I'm currently studying reversing and modern java
-
 <br>
 :star2:Use Languages & Framework
 <p>
