@@ -11,7 +11,7 @@
 </p>
 <p>
 <img src="https://github.com/irostub/irostub/blob/master/resources/spring-o.png?raw=true">
-<img src="https://github.com/irostub/irostub/blob/master/resources/react-o-w.png?raw=true">
+
 </p>
 
 <br>
@@ -21,6 +21,7 @@
 <p>
 <img src="https://github.com/irostub/irostub/blob/master/resources/spring-secu-o.png?raw=true">
 <img src="https://github.com/irostub/irostub/blob/master/resources/nginx-o.png?raw=true">
+<img src="https://github.com/irostub/irostub/blob/master/resources/react-o-w.png?raw=true">
 </p>
 <br>
 📫Talk to me anything if you want here
