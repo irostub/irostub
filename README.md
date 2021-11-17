@@ -51,7 +51,7 @@ _Most Use. IntellijIDEA_
 ## Github Info
 
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irostub&langs_count=8&exclude_repo=Example-deep-learning-from-scratch&layout=compact&line_height=24&hide_border=true&title_color=d88e82">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irostub&langs_count=8&exclude_repo=Example-deep-learning-from-scratch&layout=compact&line_height=24&hide_border=true&title_color=d88e82&card_width=400">
   <img  src="https://github-readme-stats.vercel.app/api?username=irostub&line_height=24&hide_border=true&title_color=d88e82">
   <div>
 <!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irostub&layout=compact&hide_border=true&title_color=d88e82&card_width=417"> -->
