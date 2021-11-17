@@ -41,7 +41,7 @@ _Most Use. IntellijIDEA_
 </details>
 
 ## Drop me a line
-<a href="https://discord.gg/FJn9Q9zVJj">![Discord](https://img.shields.io/badge/&#35irostub-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://discord.gg/FJn9Q9zVJj">![Discord](https://img.shields.io/badge/%23irostub-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </a>
 
 ## Github Trophy
