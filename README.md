@@ -40,6 +40,11 @@ _Most Use. IntellijIDEA_
 </div>
 </details>
 
+## Job
+|When|What|Do|
+|-----|-----|---|
+2021.12 ~ |유닛소프트 코딩학원(송파) 강사|C, Python
+
 ## Drop me a line
 <a href="https://discord.gg/FJn9Q9zVJj">![Discord](https://img.shields.io/badge/%23irostub-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </a>
