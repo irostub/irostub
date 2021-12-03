@@ -40,12 +40,12 @@ _Most Use. IntellijIDEA_
 </div>
 </details>
 
-## Job
+<!--## Job
 |When|What|Do|
 |-----|-----|---|
 2021.12 ~ |![unit](https://cdn.imweb.me/thumbnail/20211001/5dac41eb849ac.png) 유닛소프트 코딩학원(송파) 강사|C, Python
 2021.02 ~ 2021.07 | 인조이웍스 개발팀 BE | Java, Spring, MyBatis
-2018.11 ~ 2021.02 | 교내 부설 연구소 MESS | BE, C++, Java
+2018.11 ~ 2021.02 | 교내 부설 연구소 MESS | BE, C++, Java-->
 
 ## Drop me a line
 <a href="https://discord.gg/FJn9Q9zVJj">![Discord](https://img.shields.io/badge/%23irostub-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
