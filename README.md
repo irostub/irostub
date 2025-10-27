@@ -52,7 +52,8 @@ _Most Use. IntellijIDEA_
 ## Job
 |When|What|Do|
 |-----|-----|---|
-2022.03 ~ |![whatap](https://github.com/irostub/irostub/blob/master/resources/w-o-i.png) 와탭랩스 Server Engineer | Java
+2025.09 ~ | Blaybus | NodeJS
+2022.03 ~ 2025.08 |![whatap](https://github.com/irostub/irostub/blob/master/resources/w-o-i.png) 와탭랩스 Server Engineer | Java
 2021.11 ~ 2022.05 |![unit](https://cdn.imweb.me/thumbnail/20211001/5dac41eb849ac.png) 유닛소프트 코딩학원(송파) 강사|Java, C, Python
 2021.02 ~ 2021.07 | 인조이웍스 개발팀 BE | Java, Spring, MyBatis
 2018.11 ~ 2021.02 | 교내 부설 연구소 MESS 연구원| BE, C++, Java
